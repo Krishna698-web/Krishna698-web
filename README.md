@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krishna698-web
-- 👀 I’m interested in programming, investing, reading and  many other things that keeps up to get best out me.
-- 🌱 I’m currently learning the web technologies like HTML, CSS and JAVASCRIPT.
+- 👀 A Jnr Front-end dev working closely with HTML, CSS and JavaScript.
+- 🌱 Currently learning and understanding React environment.
 - 💞️ I’m looking to collaborate on front-end technologies with best of my knowledge.
 - 📫 How to reach me krishnakhandelwal698@gmail.com
 
