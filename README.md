@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krishna698-web
 - 👀 A Front-end dev working closely with HTML, CSS and JavaScript.
-- 🌱 React is slowly mesmerize me.
-- 💞️ I’m looking to collaborate on front-end technologies with best of my knowledge.
+- 🌱 React is slowly mesmerizing me.
+- 💞️ Looking to collaborate on front-end technologies with best of my knowledge.
 - 📫 Reach me out on krishnakhandelwal698@gmail.com
 
 <!---
