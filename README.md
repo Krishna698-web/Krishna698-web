@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krishna698-web
-- 👀 A Front-end dev working closely with HTML, CSS and JavaScript.
+- 👀 A Front-end dev working closely with React, Javascript, HTML and CSS.
 - 🌱 React is slowly mesmerizing me.
 - 💞️ Looking to collaborate on front-end technologies with best of my knowledge.
 - 📫 Reach me out on krishnakhandelwal698@gmail.com
