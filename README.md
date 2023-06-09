@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krishna698-web
+- 👋 Hi, I’m Krishna Khandelwal
 - 👀 A Front-end dev working closely with React, Javascript, HTML and CSS.
 - 🌱 React is slowly mesmerizing me.
 - 💞️ Looking to collaborate on front-end technologies with best of my knowledge.
